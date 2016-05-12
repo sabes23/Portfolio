@@ -1,2 +1,2 @@
 # Portfolio
-Editing this for my portfolio online
+Editing this for my online portfolio 
